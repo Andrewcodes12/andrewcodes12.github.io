@@ -147,11 +147,6 @@ a, button {
   align-items: center;
 }
 
-.list-unstyled pt-4{
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
 
 /*-------------------------
         ColorPallet
