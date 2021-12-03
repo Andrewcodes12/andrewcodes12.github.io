@@ -147,12 +147,12 @@ a, button {
   align-items: center;
 }
 
-.col-lg-6 mt-4 mt-lg-0{
+/* .col-lg-6 mt-4 mt-lg-0{
   display: flex;
   justify-content: center;
   flex-direction: column;
   align-items: center;
-}
+} */
 
 /*-------------------------
         ColorPallet
