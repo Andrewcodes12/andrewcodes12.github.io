@@ -70,12 +70,12 @@ header ul {
   margin-right: inherit !important;
 }
 
-.personal-item{
+/* .personal-item{
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-}
+} */
 
 .services-icon {
   float: right !important;
