@@ -113,6 +113,7 @@ a, button {
   border-radius: 1.25rem;
   box-shadow: 3px 3px 8px rgba(55, 84, 170, 0.1), -3px -3px 8px white;
   padding: 5px;
+  transform: scaleX(-1);
 }
 
 .image-border img {
