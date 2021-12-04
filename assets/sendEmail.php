@@ -30,7 +30,7 @@ if ($_POST) {
         . 'From: ' . $email . "\r\n";
     if (mail($recipient, $subject, $comments, $headers)) {
         $data = array(
-            'status' => 'Congratulation',
+            'status' => 'Congratulations',
             'message' => 'Your message sent successfully.'
         );
     } else {
